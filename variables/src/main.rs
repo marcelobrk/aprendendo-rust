@@ -55,7 +55,7 @@ fn main() {
     let mut a: [i32; 5] = [1, 2, 3, 4, 5];
 
     //Cinco elementos do tipo i32
-    let a = [3; 5]; é o mesmo que let a = [3, 3, 3, 3, 3];
+    let a = [3; 5]; // é o mesmo que let a = [3, 3, 3, 3, 3];
 
     println!("Valor de a é: {}", a[1])
 }
