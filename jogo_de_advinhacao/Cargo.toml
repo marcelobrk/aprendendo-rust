@@ -1,0 +1,11 @@
+[package]
+name = "jogo_de_advinhacao"
+version = "0.1.0"
+edition = "2021"
+authors = ["Marcelo Silva <marcelo@marcelosilvad.dev>"]
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.3.14"
